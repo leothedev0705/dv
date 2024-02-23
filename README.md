@@ -6,13 +6,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and aspiring to develop software solutions.
+- 🤖 &nbsp; Exploring new technologies and aspiring to develop software solutions.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at FCRIT Vashi.
 
 - 🌱 &nbsp; Learning about Web Development and Data Science.
 
-- ✍️ &nbsp; Pursuing Ethical Hacking as a hobby.
+- 🐱‍💻 &nbsp; Pursuing Ethical Hacking as a hobby.
 
 
 
