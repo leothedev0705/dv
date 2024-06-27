@@ -1,4 +1,4 @@
-### Hello World! 🌎<h2> I'm Leonardo</h2>
+### Hello World! 🌎<h2> I'm Leonardo!!</h2>
 
 <img align='right' src="https://media2.giphy.com/media/WVGTyqa9w0gcLE46hx/giphy.gif?cid=ecf05e476qee8gmu79l4i2ural1a0lnthm6ns6n44vnughio&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
 
@@ -63,9 +63,7 @@
 
 
 
-<p align="center">
 
-<a href="https://app.netlify.com/user/settings#profile"><img alt="Website" src="https://img.shields.io/badge/Leonardo D'Souza.netlify.app-black?style=flat-square&logo=google-chrome"></a>
 
 <a href="https://www.linkedin.com/in/leonardo-d-souza-035709241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardo%20D'Souza-blue?style=flat-square&logo=linkedin"></a>
 
