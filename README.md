@@ -13,6 +13,8 @@
 - 🌱 &nbsp; Learning about Web Development and Data Science.
 
 - 🐱‍💻 &nbsp; Pursuing Ethical Hacking and Data Learning as a hobby.
+  
+- 💪 &nbsp; Extremely enthusiastic about Prompt Engineering and the Functioning of AI chat bots.
 
 
 
