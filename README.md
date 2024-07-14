@@ -69,7 +69,7 @@
 
 <a href="https://www.linkedin.com/in/leonardo-d-souza-035709241/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Leonardo%20D'Souza-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/i__disbalance/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-i__disbalance-black?style=flat-square&logo=instagram"></a>
+
 
 <a href="mailto:ld120971@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ld120971@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
