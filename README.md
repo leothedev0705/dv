@@ -22,7 +22,7 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | Java | C++ | C | Kirby CMS | yml
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS | Tailwind 
 
