@@ -51,9 +51,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔥 **Portfolio Website** — [Visit Here](https://your-portfolio-link.com)  
-- 🧠 **AI Chatbot Engine** — [GitHub Repo](https://github.com/leothedev0705/your-ai-chatbot)
-- 📚 **Student Management System** — [GitHub Repo](https://github.com/leothedev0705/your-student-project)
+- 🔥 **Portfolio Website** — [Visit Here](https://leonardo-dsouza-porfolio.vercel.app/)  
 
 ---
 
