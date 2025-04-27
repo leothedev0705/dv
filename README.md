@@ -1,7 +1,7 @@
-<!-- Dark Elegant + Supercharged GitHub Profile README -->
+<!-- ⚡ REBEL CODER GITHUB PROFILE README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FFD9&center=true&vCenter=true&width=600&lines=HELLO+WORLD+_+_+_+_;I+AM+LEONARDO+D'SOUZA;The+Bug+You+Actually+Wanted+😎" alt="Glitch Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=300&color=00FFD9&center=true&vCenter=true&width=600&lines=HELLO+WORLD+_%2F;WELCOME+TO+MY+REALM;I+AM+LEONARDO+D'SOUZA;CODER+%7C+CREATOR+%7C+HACKER" alt="Cooler Glitch Typing Banner" />
 </p>
 
 <p align="center">
@@ -12,12 +12,11 @@
 
 ## 👨🏻‍💻 About Me
 
-
-- 🤖 Tech Explorer and Builder 🚀
-- 🎓 CS & Engineering @ **FCRIT Vashi**
-- 🌱 Learning: Web Dev, Data Science, Ethical Hacking
-- 💬 AI & Prompt Engineering Enthusiast
-- 🏆 Mission: Build things that matter
+- 🤖 Tech Explorer | Creative Builder
+- 🎓 CS & Engineering Student @ **FCRIT Vashi**
+- 🌱 Learning: Web Development | Data Science | Ethical Hacking
+- 🛡️ Passion: AI, Prompt Engineering, Cybersecurity
+- 🚀 Motto: **Breaking barriers, crafting code, building futures.**
 
 ---
 
@@ -56,21 +55,6 @@
 
 ---
 
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-d-souza-035709241/">
-    <img src="https://img.shields.io/badge/LinkedIn-Leonardo_D'Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ld120971@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ld120971@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
----
-
 ## 🏆 Achievements Unlocked
 
 <p align="center">
@@ -82,7 +66,7 @@
 ## 🧠 Hacker's Manifesto
 
 <p align="center">
-  <b><i>"In code we trust. In bugs we thrive. In dreams we build." 💻✨</i></b>
+  <b><i>"Code like a rebel. Deploy like a king." 👑</i></b>
 </p>
 
 ---
@@ -90,7 +74,7 @@
 ## 📈 Code Chronicles
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leothedev0705&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leothedev0705&show_icons=true&theme=radical&hide_border=true&card_width=400" alt="GitHub Stats" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=leothedev0705&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -101,5 +85,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD9&height=200&section=footer&text=Thanks+for+Dropping+By+👾&fontAlign=middle&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Animated Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD9&height=200&section=footer&text=See+You+in+the+Next+Dimension+👾&fontAlign=middle&fontSize=30&fontColor=ffffff&animation=twinkling" alt="Animated Footer Banner" />
 </p>
